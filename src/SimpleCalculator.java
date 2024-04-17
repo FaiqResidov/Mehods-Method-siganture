@@ -46,7 +46,7 @@ public class SimpleCalculator {
                 System.out.println("Goodbye!");
                break;
             }
-          
+
 
 
         }
